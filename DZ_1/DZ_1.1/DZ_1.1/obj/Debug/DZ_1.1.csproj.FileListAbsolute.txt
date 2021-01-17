@@ -1,0 +1,7 @@
+C:\Users\Doom-PC\source\repos\DZ_1.1\DZ_1.1\bin\Debug\DZ_1.1.exe.config
+C:\Users\Doom-PC\source\repos\DZ_1.1\DZ_1.1\bin\Debug\DZ_1.1.exe
+C:\Users\Doom-PC\source\repos\DZ_1.1\DZ_1.1\bin\Debug\DZ_1.1.pdb
+C:\Users\Doom-PC\source\repos\DZ_1.1\DZ_1.1\obj\Debug\DZ_1.1.csprojAssemblyReference.cache
+C:\Users\Doom-PC\source\repos\DZ_1.1\DZ_1.1\obj\Debug\DZ_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Doom-PC\source\repos\DZ_1.1\DZ_1.1\obj\Debug\DZ_1.1.exe
+C:\Users\Doom-PC\source\repos\DZ_1.1\DZ_1.1\obj\Debug\DZ_1.1.pdb
